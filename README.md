@@ -1,6 +1,6 @@
 # Number-Guess
 
-This is a game in which user will ask tio guess number. If guessed number will smaller than actual number then user will again ask to guess bigger number and if guessed number is higher than actual number then it will ask to guess smaller number. And all guesses will count so we can track the whether score is high score or not.
+This is a **game**. In which, user will ask to guess number between 1 to 10. If user guessed number will smaller than actual number then it will ask to guess bigger number and if guessed number is higher than actual number then it will ask to guess smaller number. And all guesses will count so we can track the whether score is high score or not.
 
 ## Module 
 
